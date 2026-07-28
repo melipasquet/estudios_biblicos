@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>1 Timoteo · ¿En qué capítulo va cada sección?</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#FBF8F0;
+    --ink:#33302B;
+    --muted:#8B8578;
+    --blue:#2F6FB2;
+    --green:#4C9A5A;
+    --orange:#E08A2B;
+    --card:#FFFFFF;
+    --line:rgba(47,111,178,.14);
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    font-family:'Kalam',cursive;
+    color:var(--ink);
+    background-color:var(--paper);
+    background-image:
+      linear-gradient(var(--line) 1px,transparent 1px),
+      linear-gradient(90deg,var(--line) 1px,transparent 1px);
+    background-size:26px 26px;
+    -webkit-font-smoothing:antialiased;
+    padding:20px 16px 48px;
+  }
+  .wrap{max-width:920px;margin:0 auto;}
+
+  header h1{
+    font-size:clamp(1.5rem,4vw,2.1rem);
+    font-weight:700;margin:0 0 4px;color:var(--ink);
+  }
+  header p{margin:0;color:var(--muted);font-size:1.05rem;font-weight:300;}
+
+  .status{
+    display:flex;align-items:center;gap:14px;flex-wrap:wrap;
+    margin:14px 0 6px;
+  }
+  .score{
+    font-weight:700;color:var(--orange);font-size:1.15rem;
+    border:2px solid var(--orange);border-radius:14px 12px 15px 11px;
+    padding:2px 14px;background:#fff;
+  }
+  .btn{
+    font-family:inherit;font-size:1rem;font-weight:700;cursor:pointer;
+    border:2px solid var(--blue);color:var(--blue);background:#fff;
+    border-radius:13px 11px 14px 10px;padding:5px 16px;
+    transition:background .15s,color .15s;
+  }
+  .btn:hover{background:var(--blue);color:#fff;}
+
+  /* Bandeja de secciones sin ubicar */
+  .pool{
+    margin:16px 0 26px;padding:14px;
+    border:2px dashed rgba(51,48,43,.28);
+    border-radius:18px 16px 20px 15px;
+    background:rgba(255,255,255,.4);
+    min-height:70px;
+    display:flex;flex-wrap:wrap;gap:12px;align-content:flex-start;
+  }
+  .pool .pool-hint{color:var(--muted);font-weight:300;margin:auto;}
+
+  /* Tarjetas arrastrables */
+  .card{
+    font-family:inherit;font-size:1rem;font-weight:400;line-height:1.25;
+    background:var(--card);color:var(--ink);
+    border:2px solid var(--blue);
+    border-radius:12px 14px 11px 15px;
+    padding:9px 13px;max-width:280px;
+    cursor:grab;user-select:none;touch-action:none;
+    box-shadow:2px 3px 0 rgba(47,111,178,.18);
+    transition:transform .12s,box-shadow .12s;
+  }
+  .card:nth-child(even){transform:rotate(-1.2deg);}
+  .card:nth-child(odd){transform:rotate(.9deg);}
+  .card:hover{box-shadow:3px 4px 0 rgba(47,111,178,.28);}
+  .card.dragging{
+    position:fixed;z-index:999;cursor:grabbing;pointer-events:none;
+    transform:rotate(-2deg) scale(1.03);
+    box-shadow:6px 8px 0 rgba(47,111,178,.22);
+    margin:0;
+  }
+  .card.wrong{
+    border-color:#D24B3E;color:#D24B3E;
+    animation:shake .4s;
+  }
+  .card.locked{
+    cursor:default;border-color:var(--green);
+    background:#F3FAF3;box-shadow:2px 3px 0 rgba(76,154,90,.22);
+    transform:none;
+  }
+  .card.locked::before{content:"\2713  ";color:var(--green);font-weight:700;}
+  @keyframes shake{
+    0%,100%{transform:translateX(0);}
+    20%{transform:translateX(-6px);}
+    40%{transform:translateX(6px);}
+    60%{transform:translateX(-4px);}
+    80%{transform:translateX(4px);}
+  }
+
+  /* Grilla de capítulos */
+  .chapters{
+    display:grid;gap:14px;
+    grid-template-columns:repeat(3,1fr);
+  }
+  .chapter{
+    border:2px solid var(--blue);
+    border-radius:16px 14px 18px 13px;
+    background:rgba(255,255,255,.65);
+    padding:10px;min-height:120px;
+    transition:background .15s,border-color .15s,transform .1s;
+  }
+  .chapter.hover{
+    background:#EAF3FB;border-color:var(--orange);
+    transform:scale(1.015);
+  }
+  .chapter h2{
+    margin:0 0 8px;font-size:1.15rem;font-weight:700;
+    color:var(--blue);display:flex;align-items:center;gap:8px;
+  }
+  .chapter h2 .num{
+    background:var(--blue);color:#fff;font-size:.9rem;
+    width:26px;height:26px;border-radius:50% 48% 52% 50%;
+    display:inline-flex;align-items:center;justify-content:center;
+  }
+  .chapter-body{display:flex;flex-direction:column;gap:8px;}
+  .chapter-body .drop-hint{
+    color:var(--muted);font-weight:300;font-size:.9rem;text-align:center;
+    padding:10px 0;opacity:.8;
+  }
+  .chapter.filled .drop-hint{display:none;}
+
+  /* Cartel de completado */
+  .done{
+    margin-top:22px;padding:16px 18px;text-align:center;
+    border:2px solid var(--green);border-radius:18px 16px 20px 15px;
+    background:#F1FAF1;color:var(--green);font-size:1.3rem;font-weight:700;
+    display:none;
+  }
+  .done.show{display:block;animation:pop .3s;}
+  @keyframes pop{from{transform:scale(.94);opacity:0;}to{transform:scale(1);opacity:1;}}
+
+  @media (max-width:680px){
+    .chapters{grid-template-columns:repeat(2,1fr);}
+    .card{max-width:100%;}
+  }
+  @media (max-width:420px){
+    .chapters{grid-template-columns:1fr;}
+  }
+  @media (prefers-reduced-motion:reduce){
+    *{animation:none!important;transition:none!important;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>1 Timoteo</h1>
+    <p>Arrastrá cada sección al capítulo al que pertenece.</p>
+  </header>
+
+  <div class="status">
+    <span class="score" id="score">0 / 0 ubicadas</span>
+    <button class="btn" id="reset">Reiniciar</button>
+  </div>
+
+  <div class="pool" id="pool"></div>
+
+  <div class="chapters" id="chapters"></div>
+
+  <div class="done" id="done">¡Muy bien! Ubicaste todas las secciones de 1 Timoteo.</div>
+</div>
+
+<script>
+/* ────────────────────────────────────────────────────────────────
+   CONTENIDO — para extender a otras cartas, editá solo esto.
+   'cap' = número de capítulo correcto.  'capitulos' = cuántos hay.
+   ──────────────────────────────────────────────────────────────── */
+const CONFIG = {
+  capitulos: 6,
+  secciones: [
+    { texto: "Saludos de Pablo", cap: 1 },
+    { texto: "Advertencia contra las falsas enseñanzas", cap: 1 },
+    { texto: "La responsabilidad de Timoteo", cap: 1 },
+    { texto: "Indicaciones sobre los hombres y las mujeres en las reuniones", cap: 2 },
+    { texto: "Los líderes de la iglesia", cap: 3 },
+    { texto: "Un buen siervo de Cristo Jesús", cap: 4 },
+    { texto: "Consejos sobre las viudas, los ancianos y los esclavos", cap: 5 },
+    { texto: "La falsa enseñanza y la verdadera riqueza", cap: 6 },
+    { texto: "Instrucciones finales de Pablo", cap: 6 }
+  ]
+};
+
+const poolEl = document.getElementById('pool');
+const chaptersEl = document.getElementById('chapters');
+const scoreEl = document.getElementById('score');
+const doneEl = document.getElementById('done');
+let total = 0, placed = 0;
+
+function shuffle(a){
+  for(let i=a.length-1;i>0;i--){
+    const j=Math.floor(Math.random()*(i+1));
+    [a[i],a[j]]=[a[j],a[i]];
+  }
+  return a;
+}
+
+function build(){
+  poolEl.innerHTML='';
+  chaptersEl.innerHTML='';
+  doneEl.classList.remove('show');
+  placed=0; total=CONFIG.secciones.length;
+
+  // capítulos
+  for(let n=1;n<=CONFIG.capitulos;n++){
+    const ch=document.createElement('div');
+    ch.className='chapter';
+    ch.dataset.cap=n;
+    ch.innerHTML=`<h2><span class="num">${n}</span>Capítulo ${n}</h2>
+                  <div class="chapter-body"><div class="drop-hint">Soltá acá</div></div>`;
+    chaptersEl.appendChild(ch);
+  }
+
+  // tarjetas
+  shuffle([...CONFIG.secciones]).forEach((s,i)=>{
+    const c=document.createElement('div');
+    c.className='card';
+    c.textContent=s.texto;
+    c.dataset.cap=s.cap;
+    c.addEventListener('pointerdown',startDrag);
+    poolEl.appendChild(c);
+  });
+
+  updateScore();
+  refreshHint();
+}
+
+function updateScore(){
+  scoreEl.textContent=`${placed} / ${total} ubicadas`;
+  if(placed===total && total>0) doneEl.classList.add('show');
+}
+
+function refreshHint(){
+  if(poolEl.children.length===0){
+    poolEl.innerHTML='<span class="pool-hint">¡No queda ninguna! Podés reiniciar para practicar de nuevo.</span>';
+  }
+  document.querySelectorAll('.chapter').forEach(ch=>{
+    const body=ch.querySelector('.chapter-body');
+    ch.classList.toggle('filled', body.querySelector('.card')!==null);
+  });
+}
+
+/* ── Arrastre con pointer events (mouse + touch) ── */
+let active=null, dx=0, dy=0, lastZone=null;
+
+function startDrag(e){
+  const card=e.currentTarget;
+  if(card.classList.contains('locked')) return;
+  e.preventDefault();
+  active=card;
+  const r=card.getBoundingClientRect();
+  dx=e.clientX-r.left; dy=e.clientY-r.top;
+  card.style.width=r.width+'px';
+  card.classList.add('dragging');
+  document.body.appendChild(card);
+  moveTo(e.clientX,e.clientY);
+  card.setPointerCapture(e.pointerId);
+  card.addEventListener('pointermove',onMove);
+  card.addEventListener('pointerup',onUp);
+  card.addEventListener('pointercancel',onUp);
+}
+
+function moveTo(x,y){
+  active.style.left=(x-dx)+'px';
+  active.style.top=(y-dy)+'px';
+}
+
+function onMove(e){
+  if(!active) return;
+  moveTo(e.clientX,e.clientY);
+  const el=document.elementFromPoint(e.clientX,e.clientY);
+  const zone=el?el.closest('.chapter'):null;
+  if(zone!==lastZone){
+    if(lastZone) lastZone.classList.remove('hover');
+    if(zone) zone.classList.add('hover');
+    lastZone=zone;
+  }
+}
+
+function onUp(e){
+  if(!active) return;
+  const card=active;
+  const zone=lastZone;
+  if(lastZone){lastZone.classList.remove('hover');lastZone=null;}
+  card.classList.remove('dragging');
+  card.style.left=card.style.top=card.style.width='';
+
+  if(zone && zone.dataset.cap===card.dataset.cap){
+    // correcto
+    zone.querySelector('.chapter-body').appendChild(card);
+    card.classList.add('locked');
+    card.removeEventListener('pointerdown',startDrag);
+    placed++;
+    updateScore();
+  }else{
+    // incorrecto o fuera de zona → vuelve a la bandeja
+    poolEl.appendChild(card);
+    if(zone){
+      card.classList.add('wrong');
+      setTimeout(()=>card.classList.remove('wrong'),450);
+    }
+  }
+  active=null;
+  refreshHint();
+}
+
+document.getElementById('reset').addEventListener('click',build);
+build();
+</script>
+</body>
+</html>
