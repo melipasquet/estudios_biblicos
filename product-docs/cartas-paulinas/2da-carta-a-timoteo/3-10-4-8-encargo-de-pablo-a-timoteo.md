@@ -40,23 +40,7 @@ description: >-
 
 <details>
 
-<summary>Preguntas de comprensión</summary>
-
-**3:10-13** ¿Qué conoce Timoteo de la enseñanza y de la vida de Pablo? ¿Qué dice Pablo sobre el sufrimiento de quienes quieren vivir en sumisión a Dios?
-
-**3:14-17** ¿Por qué debe Timoteo permanecer fiel a lo que aprendió y qué beneficios tienen las Escrituras según Pablo?
-
-**3:16-17** ¿Para qué es útil la Escritura y qué logra Dios mediante ella en la vida de su pueblo?
-
-**4:1-2** ¿Qué le pide Pablo a Timoteo que haga con la palabra de Dios?
-
-**4:3-4** ¿Qué ocurrirá con las personas que ya no quieran escuchar la sana enseñanza y qué harán en lugar de aceptar la verdad?
-
-**4:5** ¿Qué le pide Pablo a Timoteo que haga frente a estas circunstancias y cómo debe llevar a cabo el ministerio que recibió?
-
-**4:6-8** ¿Cómo describe Pablo el final de su propia vida y qué espera recibir del Señor cuando regrese?
-
-</details>
+<summary>Notas de comentarios bíblicos</summary>
 
 {% stepper %}
 {% step %}
@@ -193,3 +177,27 @@ _<mark style="background-color:yellow;">**mi vida ya fue derramada como una ofre
 _<mark style="background-color:yellow;">**Ahora me espera el premio, la corona de justicia que el Señor:**</mark>_ En los juegos atléticos romanos, se daba una guirnalda de laurel a los ganadores. Símbolo de triunfo y honor, era el premio más ansiado en la antigua Roma. Esto es probablemente lo que Pablo tenía en mente cuando habló de una "corona". Pero la suya sería una corona de justicia. Para mayores detalles relacionados con las recompensas que nos aguardan por nuestra fe y obras, véase [2 Corintios 5:10](https://www.bibliatodo.com/es/search-bible?s=2%20Corintios+5%3A10\&version=NTV). Aunque Pablo no recibe ninguna recompensa terrenal, sería recompensado en los cielos. Lo que sea que tengamos que enfrentar, desánimo, persecución o muerte, sabemos que nuestra recompensa está con Cristo en los cielos.
 {% endstep %}
 {% endstepper %}
+
+
+
+</details>
+
+<details>
+
+<summary>Preguntas de comprensión</summary>
+
+**3:10-13** ¿Qué conoce Timoteo de la enseñanza y de la vida de Pablo? ¿Qué dice Pablo sobre el sufrimiento de quienes quieren vivir en sumisión a Dios?
+
+**3:14-17** ¿Por qué debe Timoteo permanecer fiel a lo que aprendió y qué beneficios tienen las Escrituras según Pablo?
+
+**3:16-17** ¿Para qué es útil la Escritura y qué logra Dios mediante ella en la vida de su pueblo?
+
+**4:1-2** ¿Qué le pide Pablo a Timoteo que haga con la palabra de Dios?
+
+**4:3-4** ¿Qué ocurrirá con las personas que ya no quieran escuchar la sana enseñanza y qué harán en lugar de aceptar la verdad?
+
+**4:5** ¿Qué le pide Pablo a Timoteo que haga frente a estas circunstancias y cómo debe llevar a cabo el ministerio que recibió?
+
+**4:6-8** ¿Cómo describe Pablo el final de su propia vida y qué espera recibir del Señor cuando regrese?
+
+</details>

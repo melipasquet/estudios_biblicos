@@ -40,6 +40,19 @@
   * [3:10-4:8 Encargo de Pablo a Timoteo](cartas-paulinas/2da-carta-a-timoteo/3-10-4-8-encargo-de-pablo-a-timoteo.md)
   * [4:9-18 Palabras finales de Pablo](cartas-paulinas/2da-carta-a-timoteo/4-9-18-palabras-finales-de-pablo.md)
   * [4:19-22 Saludos finales de Pablo](cartas-paulinas/2da-carta-a-timoteo/4-19-22-saludos-finales-de-pablo.md)
+* [Tito](cartas-paulinas/tito/README.md)
+  * [La Carta a Tito: Introducción General](cartas-paulinas/tito/la-carta-a-tito-introduccion-general.md)
+  * [1:1-4 Saludos de Pablo](cartas-paulinas/tito/1-1-4-saludos-de-pablo.md)
+  * [1:5-16 Tarea de Tito en Creta](cartas-paulinas/tito/1-5-16-tarea-de-tito-en-creta.md)
+  * [2:1-15 Fomenta la enseñanza correcta](cartas-paulinas/tito/2-1-15-fomenta-la-ensenanza-correcta.md)
+  * [3:1-11 Hagan lo que es bueno](cartas-paulinas/tito/3-1-11-hagan-lo-que-es-bueno.md)
+  * [3:12-15 Comentarios y saludos finales de Pablo](cartas-paulinas/tito/3-12-15-comentarios-y-saludos-finales-de-pablo.md)
+* [Filemón](cartas-paulinas/filemon/README.md)
+  * [La Carta a Filemón: Introducción General](cartas-paulinas/filemon/la-carta-a-filemon-introduccion-general.md)
+  * [1:1-3 Saludos de Pablo](cartas-paulinas/filemon/1-1-3-saludos-de-pablo.md)
+  * [1:4-7 Agradecimiento y oración de Pablo](cartas-paulinas/filemon/1-4-7-agradecimiento-y-oracion-de-pablo.md)
+  * [1:8-22 Súplica de Pablo por Onésimo](cartas-paulinas/filemon/1-8-22-suplica-de-pablo-por-onesimo.md)
+  * [1:23-25 Saludos finales de Pablo](cartas-paulinas/filemon/1-23-25-saludos-finales-de-pablo.md)
 
 ## Guías
 

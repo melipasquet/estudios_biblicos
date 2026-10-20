@@ -29,19 +29,7 @@ description: >-
 
 <details>
 
-<summary>Preguntas de comprensión</summary>
-
-**4:9-12** ¿Qué le pide Pablo a Timoteo? ¿Qué información da sobre las personas que se fueron, las que permanecen con él y las que fueron enviadas a otros lugares?
-
-**4:11-13** ¿A quién quiere Pablo que Timoteo lleve consigo y qué necesita que le traiga?
-
-**4:14-15** ¿Qué hizo Alejandro contra Pablo y qué le advierte Pablo a Timoteo acerca de él?
-
-**4:16-18** ¿Qué ocurrió cuando Pablo fue llevado ante el juez, quién estuvo a su lado y qué hizo el Señor por él?
-
-**4:17-18** ¿Para qué fortaleció el Señor a Pablo y de qué dice Pablo que el Señor seguirá librándolo?
-
-</details>
+<summary>Notas de comentarios bíblicos</summary>
 
 {% stepper %}
 {% step %}
@@ -146,3 +134,23 @@ Aquí Pablo afirma su creencia en la vida eterna después de la muerte. Él sab�
 Esto refleja un optimismo y gozo irracionales. Pablo enfrentaba sus últimos momentos de esta vida y se encontraba sin un centavo, sin amigos, sin posesiones, con frio, sin ropa adecuada y destinado a morir pronto. Sin embargo, especialmente conociendo la recompensa celestial que le esperaba, no cambiaría su lugar con nadie.
 {% endstep %}
 {% endstepper %}
+
+
+
+</details>
+
+<details>
+
+<summary>Preguntas de comprensión</summary>
+
+**4:9-12** ¿Qué le pide Pablo a Timoteo? ¿Qué información da sobre las personas que se fueron, las que permanecen con él y las que fueron enviadas a otros lugares?
+
+**4:11-13** ¿A quién quiere Pablo que Timoteo lleve consigo y qué necesita que le traiga?
+
+**4:14-15** ¿Qué hizo Alejandro contra Pablo y qué le advierte Pablo a Timoteo acerca de él?
+
+**4:16-18** ¿Qué ocurrió cuando Pablo fue llevado ante el juez, quién estuvo a su lado y qué hizo el Señor por él?
+
+**4:17-18** ¿Para qué fortaleció el Señor a Pablo y de qué dice Pablo que el Señor seguirá librándolo?
+
+</details>

@@ -26,19 +26,7 @@ description: >-
 
 <details>
 
-<summary>Preguntas de comprensión</summary>
-
-**3:1-5** ¿Cómo describe Pablo a las personas de los últimos días?
-
-**3:2-4** ¿Qué actitudes y comportamientos caracterizarán a estas personas en su relación con Dios y con los demás?
-
-**3:5** ¿Qué apariencia tendrán estas personas y qué rechazarán a pesar de esa apariencia?
-
-**3:6-7** ¿Cómo actúan estos individuos con las mujeres vulnerables y qué les sucede a quienes están constantemente buscando nuevas enseñanzas sin llegar a comprender la verdad?
-
-**3:8-9** ¿Con quiénes compara Pablo a estos maestros y qué afirma acerca de su mente, su fe y el resultado final de su conducta?
-
-</details>
+<summary>Notas de comentarios bíblicos</summary>
 
 {% stepper %}
 {% step %}
@@ -116,3 +104,23 @@ _<mark style="background-color:yellow;">**no se saldrán con la suya por mucho t
 Pablo explica que así como Moisés los enfrentó y los derrotó (Éxodo 8:18-19), Dios derrotaría a los falsos maestros que plagaban la iglesia de Éfeso.
 {% endstep %}
 {% endstepper %}
+
+
+
+</details>
+
+<details>
+
+<summary>Preguntas de comprensión</summary>
+
+**3:1-5** ¿Cómo describe Pablo a las personas de los últimos días?
+
+**3:2-4** ¿Qué actitudes y comportamientos caracterizarán a estas personas en su relación con Dios y con los demás?
+
+**3:5** ¿Qué apariencia tendrán estas personas y qué rechazarán a pesar de esa apariencia?
+
+**3:6-7** ¿Cómo actúan estos individuos con las mujeres vulnerables y qué les sucede a quienes están constantemente buscando nuevas enseñanzas sin llegar a comprender la verdad?
+
+**3:8-9** ¿Con quiénes compara Pablo a estos maestros y qué afirma acerca de su mente, su fe y el resultado final de su conducta?
+
+</details>

@@ -32,21 +32,7 @@ description: >-
 
 <details>
 
-<summary>Preguntas de comprensión</summary>
-
-**2:15** ¿Cómo debe presentarse Timoteo delante de Dios y qué debe hacer correctamente con la palabra de verdad?
-
-**2:16-18** ¿Qué efecto tienen las conversaciones inútiles y necias? ¿Qué enseñanza falsa difundieron Himeneo y Fileto?
-
-**2:19** ¿Qué dos verdades aparecen como fundamento firme de Dios?
-
-**2:20-21** ¿Qué diferencia establece Pablo entre los distintos utensilios de una casa? ¿Qué debe hacer una persona para ser un utensilio especial para uso honorable?
-
-**2:22** ¿De qué debe huir Timoteo y qué cosas debe buscar, junto con quiénes?
-
-**2:23-26** ¿Cómo debe comportarse un siervo del Señor frente a las discusiones y frente a quienes se oponen a la verdad? ¿Qué espera Pablo que pueda suceder con ellos?
-
-</details>
+<summary>Notas de comentarios bíblicos</summary>
 
 {% stepper %}
 {% step %}
@@ -189,3 +175,25 @@ _<mark style="background-color:yellow;">**sigue ... el amor y la paz:**</mark>_ 
 
 {% endstep %}
 {% endstepper %}
+
+
+
+</details>
+
+<details>
+
+<summary>Preguntas de comprensión</summary>
+
+**2:15** ¿Cómo debe presentarse Timoteo delante de Dios y qué debe hacer correctamente con la palabra de verdad?
+
+**2:16-18** ¿Qué efecto tienen las conversaciones inútiles y necias? ¿Qué enseñanza falsa difundieron Himeneo y Fileto?
+
+**2:19** ¿Qué dos verdades aparecen como fundamento firme de Dios?
+
+**2:20-21** ¿Qué diferencia establece Pablo entre los distintos utensilios de una casa? ¿Qué debe hacer una persona para ser un utensilio especial para uso honorable?
+
+**2:22** ¿De qué debe huir Timoteo y qué cosas debe buscar, junto con quiénes?
+
+**2:23-26** ¿Cómo debe comportarse un siervo del Señor frente a las discusiones y frente a quienes se oponen a la verdad? ¿Qué espera Pablo que pueda suceder con ellos?
+
+</details>
