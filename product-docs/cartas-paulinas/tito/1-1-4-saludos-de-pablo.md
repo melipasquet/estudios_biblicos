@@ -16,7 +16,7 @@ _4 Le escribo a Tito, mi verdadero hijo en la fe que compartimos. Que Dios Padre
 {% step %}
 ### Pablo, el autor de la carta, se presenta y su misión
 
-Pablo escribió esta carta en el lapso entre su primera y segunda prisión en Roma (antes escribió 2 Timoteo) para asesorar a Tito en su labor con las iglesias en la isla de Creta. Pablo había visitado Creta con Tito y lo dejó allí para ministrar (Tito 1:5). Creta fue un centro de entrenamiento para los soldados romanos. Por lo tanto, hubo una considerable influencia pagana en esta isla pequeña. Por esta razón, la iglesia en Creta necesitó un liderazgo sólido.
+Pablo escribió esta carta en el lapso entre su primera y segunda prisión en Roma para asesorar a Tito en su labor con las iglesias en la isla de Creta. Pablo había visitado Creta con Tito y lo dejó allí para ministrar (Tito 1:5). Creta fue un centro de entrenamiento para los soldados romanos. Por lo tanto, hubo una considerable influencia pagana en esta isla pequeña. Por esta razón, la iglesia en Creta necesitó un liderazgo sólido.
 
 _<mark style="background-color:yellow;">**Yo, Pablo:**</mark>_ Al primero haber escrito su propio nombre, Pablo siguió las costumbres de su época para redactar cartas. Primero se menciona el escritor, luego al lector, y ya después se da el saludo.
 
