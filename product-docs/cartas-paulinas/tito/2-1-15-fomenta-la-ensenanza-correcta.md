@@ -34,10 +34,6 @@ _15 Debes enseñar estas cosas y alentar a los creyentes a que las hagan. Tienes
 
 <summary>Notas de comentarios bíblicos</summary>
 
-
-
-</details>
-
 {% stepper %}
 {% step %}
 ### 2:1-3, 6-8, 15 Pablo da indicaciones a Tito
@@ -148,3 +144,7 @@ La gracia deja a la impiedad y a los deseos mundanos en el pasado. Ahora la grac
 Entonces miraremos hacia adelante esperando el regreso maravilloso de Cristo con ansiosa expectativa y esperanza.
 {% endstep %}
 {% endstepper %}
+
+
+
+</details>
