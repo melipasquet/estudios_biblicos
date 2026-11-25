@@ -12,11 +12,11 @@ description: >-
 
 **Colosas** era una ciudad del interior de Asia Menor (la actual Turquía), ubicada en el valle del río Lico, en la región de Frigia, a unos 180 kilómetros al este de Éfeso.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 En su época de mayor esplendor, durante el período persa y helenístico, había sido una ciudad próspera y populosa, famosa por su lana teñida de rojo oscuro, llamada precisamente _colossinus_. Sin embargo, para la época de Pablo era una ciudad de **segundo orden**, opacada por sus vecinas más importantes: **Laodicea** (a 18 km) y **Hierápolis** (a 21 km), ambas mencionadas en la carta.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 El valle del Lico era una zona sísmicamente activa: alrededor del año 60-61 d.C., un terremoto devastador destruyó Laodicea y probablemente afectó también a Colosas, aunque las fuentes antiguas no son uniformes al respecto. Esto es relevante porque coincide aproximadamente con la fecha en que Pablo escribe la carta.
 
@@ -46,7 +46,7 @@ La respuesta de Pablo es radical y directa: **en Cristo habita toda la plenitud 
 
 <summary><strong>Temas centrales de la carta</strong></summary>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 **La supremacía de Cristo.** El corazón doctrinal de Colosenses es el himno cristológico de 1:15-20, uno de los textos más elevados del Nuevo Testamento. Cristo es "imagen del Dios invisible", "primogénito de toda creación", aquel por quien y para quien fueron creadas todas las cosas, incluidos los ángeles y potestades. Esta afirmación no es poesía decorativa: es una respuesta directa a quienes ponían a los ángeles como mediadores necesarios. Si Cristo creó a los ángeles, no tiene sentido rendirles culto para acercarse a Dios.
 
@@ -68,7 +68,7 @@ La respuesta de Pablo es radical y directa: **en Cristo habita toda la plenitud 
 
 <summary><strong>Personajes involucrados</strong></summary>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Pablo** se identifica como autor en 1:1 y nuevamente en 4:18, donde toma la pluma para escribir el saludo de su propia mano. Escribe con autoridad pastoral sobre una iglesia que nunca visitó, porque la considera parte de su radio de responsabilidad apostólica dado que fue fundada durante su ministerio en Éfeso.
 

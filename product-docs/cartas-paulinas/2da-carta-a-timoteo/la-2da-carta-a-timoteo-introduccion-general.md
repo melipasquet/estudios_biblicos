@@ -26,7 +26,7 @@ Aquí hay que distinguir dos ubicaciones: **desde dónde** escribe Pablo y **hac
 
 **Timoteo estaba probablemente en Éfeso**, donde Pablo lo había dejado (según 1 Ti 1:3) para pastorear y poner orden en aquella iglesia. Éfeso, como vimos, era la gran ciudad portuaria de la provincia de Asia, centro comercial y religioso dominado por el Templo de Artemisa y marcado por el ocultismo y el sincretismo. La iglesia allí seguía amenazada por falsos maestros, y Timoteo cargaba con esa responsabilidad en soledad.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="425"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="425"><figcaption></figcaption></figure>
 
 Entre 1ra y 2da Timoteo pasaron aproximadamente **dos a cuatro años**, siendo la estimación más común unos **2 a 3 años**.
 

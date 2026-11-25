@@ -1,3 +1,9 @@
+---
+description: >-
+  Pablo encarga a Tito nombrar ancianos intachables en Creta y callar a los
+  falsos maestros que engañan por dinero y niegan a Dios con sus obras.
+---
+
 # 1:5-16 Tarea de Tito en Creta
 
 _5 Te dejé en la isla de Creta para que pudieras terminar nuestro trabajo ahí y nombrar ancianos en cada ciudad, tal como te lo indiqué._
@@ -141,6 +147,92 @@ _<mark style="background-color:yellow;">**Tales personas afirman que conocen a D
 _<mark style="background-color:yellow;">**Son detestables y desobedientes, no sirven para hacer nada bueno:**</mark>_ Estas son palabras fuertes, pero Pablo las decía muy en serio. Estas personas difíciles probablemente pretendían tener una espiritualidad más elevada que la de Tito o cualquiera de los otros líderes piadosos. Pero Pablo miró justo a través de su fachada espiritual y quería que Tito – y todos los cristianos en Creta – pudieran ver a través de ella también.
 {% endstep %}
 {% endstepper %}
+
+</details>
+
+<details>
+
+<summary>Preguntas de comprensión</summary>
+
+**1:5** ¿Para qué dejó Pablo a Tito en Creta? ¿Qué tenía que hacer en cada ciudad?
+
+**1:6** ¿Cómo debe ser la vida del anciano con su esposa? ¿Cómo deben ser sus hijos?
+
+**1:7** ¿Cómo describe Pablo al líder de la iglesia? ¿Qué cinco cosas no debe ser?
+
+**1:8** ¿Qué cualidades positivas debe tener el anciano, en contraste con lo anterior?
+
+**1:9** ¿A qué debe aferrarse el anciano? ¿Qué podrá hacer entonces con los demás y con los que se oponen?
+
+**1:10-11** ¿Cómo describe Pablo a los rebeldes y qué hacen con sus conversaciones? ¿Qué hay que hacer con ellos y qué motivo los mueve?
+
+**1:12** ¿Qué dijo acerca de los cretenses uno de sus propios profetas?
+
+**1:13-14** ¿Cómo debe reprenderlos Tito y para qué? ¿A qué tienen que dejar de prestar atención?
+
+**1:15-16** ¿Qué dice Pablo sobre los de corazón puro? ¿Y sobre los corruptos e incrédulos?
+
+</details>
+
+<details>
+
+<summary>Preguntas de reflexión</summary>
+
+**1. Las tareas que Dios confía muchas veces son obras que otros comenzaron y que alguien debe terminar y ordenar** (v5)
+
+* ¿Qué tareas o responsabilidades me han encargado o delegado otras personas (en la iglesia, la familia, el trabajo), y qué tan claro tengo qué se espera de mí en cada una?
+* Cuando alguien me confía algo, ¿cómo lo recibo y qué hago después con eso?
+
+***
+
+**2. La iglesia es la casa de Dios, y quien sirve en ella lo hace como administrador de algo ajeno** (v7)
+
+* ¿Cómo manejo lo que tengo a cargo (personas, tiempo, recursos, responsabilidades): como algo mío o como algo que Dios me confió?
+* ¿Cómo reacciono cuando alguien me pide explicaciones sobre la manera en que manejo eso?
+
+***
+
+**3. El carácter se muestra en lo cotidiano: el hogar, el enojo, el dinero, la hospitalidad** (v6-8)
+
+* ¿Cuál de las cualidades de los versículos 6 al 8 aparece menos en mi vida diaria, y en qué situaciones concretas lo noto?
+
+***
+
+**4. Quien se aferra con firmeza al mensaje que recibió puede animar a otros con la sana enseñanza y señalar el error** (v9)
+
+* ¿Cuándo fue la última vez que usé algo de lo que aprendí de la Palabra para animar a otra persona?
+
+***
+
+**5. La falsa enseñanza se reconoce por sus efectos: conversaciones inútiles, familias afectadas y ganancia de por medio** (v10-11)
+
+* ¿Qué efectos concretos están dejando en mi casa y en mi entorno cercano las ideas sobre la fe que más circulan ahí?
+* ¿Qué buscan, o qué ganan, quienes más influyen en lo que creo?
+
+***
+
+**6. Las tendencias de la cultura y del entorno son reales, y la fe está llamada a corregirlas, no a justificarlas** (v12-13)
+
+*
+* Cuando le señalo un error a alguien, ¿qué busco que pase en esa persona, y cómo se nota eso en mi manera de hacerlo?
+
+***
+
+**7. Lo que hay en el corazón condiciona cómo se ve todo lo demás** (v14-15)
+
+* ¿Qué cosas o personas me generan rechazo o sospecha casi automática, y qué podría estar influyendo en mi propio corazón y mi conciencia para que las vea así?
+
+***
+
+**8. Conocer a Dios se demuestra con la manera de vivir, no solo con lo que se dice** (v16)
+
+* Si alguien conociera mis conductas cotidianas pero no escuchara mis palabras, ¿qué concluiría sobre mi relación con Dios?
+
+</details>
+
+<details>
+
+<summary>Llamado a la acción</summary>
 
 
 

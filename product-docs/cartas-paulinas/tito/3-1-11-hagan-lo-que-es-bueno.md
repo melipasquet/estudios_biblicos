@@ -1,3 +1,10 @@
+---
+description: >-
+  Recuérdales someterse a las autoridades y hacer el bien, pues Dios nos salvó
+  por su misericordia, no por nuestras obras, dándonos vida nueva por el
+  Espíritu.
+---
+
 # 3:1-11 Hagan lo que es bueno
 
 _1 Recuérdales a los creyentes que se sometan al gobierno y a sus funcionarios. Tienen que ser obedientes, siempre dispuestos a hacer lo que es bueno._
@@ -107,6 +114,46 @@ Una persona debe ser amonestada cuando está causando división que amenaza la u
 Véanse también Mateo 18:15-18 y 2 Tesalonicenses 3:14-15 para tener una ayuda al enfrentar este tipo de problemas en la iglesia.
 {% endstep %}
 {% endstepper %}
+
+
+
+</details>
+
+<details>
+
+<summary>Preguntas de comprensión</summary>
+
+**3:1** ¿A quiénes deben someterse los creyentes? ¿Cómo tienen que estar siempre dispuestos?
+
+**3:2** ¿Qué dos cosas no deben hacer los creyentes? ¿Cómo deben ser en cambio con todos?
+
+**3:3** ¿Cómo era la vida de Pablo y los creyentes antes de ser salvos? ¿De qué eran esclavos?
+
+**3:4-5** ¿Qué dio a conocer Dios nuestro Salvador? ¿Por qué nos salvó y por qué no?
+
+**3:5-6** ¿Qué hizo Dios con nosotros al salvarnos? ¿Cómo derramó su Espíritu y por medio de quién?
+
+**3:7** ¿Qué nos hizo Dios por su gracia? ¿Qué seguridad nos dio?
+
+**3:8** ¿Qué quiere Pablo que Tito enseñe con insistencia y para qué? ¿Cómo califica estas enseñanzas?
+
+**3:9** ¿De qué debe alejarse Tito? ¿Cómo califica Pablo esas discusiones?
+
+**3:10-11** ¿Qué debe hacer Tito con quienes causan divisiones?
+
+</details>
+
+<details>
+
+<summary>Preguntas de reflexión</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Llamado a la acción</summary>
 
 
 

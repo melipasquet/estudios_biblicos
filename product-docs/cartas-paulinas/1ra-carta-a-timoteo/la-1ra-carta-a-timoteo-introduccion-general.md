@@ -20,7 +20,7 @@ description: >-
 
 **Éfeso**, donde se encontraba Timoteo, era la capital de la provincia romana de Asia y una de las ciudades más importantes del Imperio (la tercera más grande, después de Roma y Alejandría). Ubicada en la costa occidental de Asia Menor (la actual Turquía), era el gran puerto comercial de la región y un centro religioso de primer orden por el **Templo de Artemisa**, una de las Siete Maravillas del mundo antiguo.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="425"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt="" width="425"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt="" width="471"><figcaption></figcaption></figure>
 
@@ -48,7 +48,7 @@ La carta es entonces, a la vez, un **manual de organización eclesial** y una **
 
 <summary><strong>Temas centrales de la carta</strong></summary>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Sana doctrina frente a los falsos maestros.** El motivo que origina la carta. Pablo le encarga a Timoteo que detenga a quienes enseñan "doctrinas diferentes", que se ocupan de mitos, genealogías interminables y debates inútiles sobre la ley. La carta abre y cierra con este tema (1:3-7 y 6:20-21). La expresión "sana doctrina" (_hygiainousē didaskalia_, literalmente "enseñanza que da salud") es característica de las pastorales.
 
@@ -68,7 +68,7 @@ La carta es entonces, a la vez, un **manual de organización eclesial** y una **
 
 <summary><strong>Personajes involucrados</strong></summary>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Pablo** es el autor, que se presenta como "apóstol de Jesucristo por mandato de Dios" (1:1). Su tono combina dos registros: la autoridad apostólica que respalda las instrucciones, y la ternura paternal hacia un discípulo al que llama "verdadero hijo en la fe". En 1:12-16 hace una de las confesiones más conmovedoras de toda su correspondencia, llamándose a sí mismo "el primero" de los pecadores.
 

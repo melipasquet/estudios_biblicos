@@ -1,3 +1,10 @@
+---
+description: >-
+  Tito debe enseñar a cada grupo a vivir con sana doctrina y dar ejemplo, pues
+  la gracia de Dios nos instruye a vivir con rectitud mientras esperamos a
+  Cristo.
+---
+
 # 2:1-15 Fomenta la enseñanza correcta
 
 _1 Tito, en cuanto a ti, fomenta la clase de vida que refleje la sana enseñanza._
@@ -144,6 +151,48 @@ La gracia deja a la impiedad y a los deseos mundanos en el pasado. Ahora la grac
 Entonces miraremos hacia adelante esperando el regreso maravilloso de Cristo con ansiosa expectativa y esperanza.
 {% endstep %}
 {% endstepper %}
+
+
+
+</details>
+
+<details>
+
+<summary>Preguntas de comprensión</summary>
+
+**2:1** ¿Qué le pide Pablo a Tito que fomente en cuanto a la manera de vivir?
+
+**2:2** ¿Qué debe enseñar Tito a los hombres mayores sobre su carácter? ¿Qué tres cosas deben tener también?
+
+**2:3** ¿Cómo deben vivir las mujeres mayores y qué dos cosas deben evitar? ¿Qué deben hacer en cambio?
+
+**2:4-5** ¿Qué deben enseñar las mujeres mayores a las más jóvenes? ¿Qué se evita con eso?
+
+**2:6-7** ¿A qué debe animar Tito a los hombres jóvenes? ¿Qué debe ser él mismo para ellos?
+
+**2:7-8** ¿Qué debe reflejar la enseñanza de Tito? ¿Qué pasará con los que se oponen a ellos?
+
+**2:9-10** ¿Qué deben hacer los esclavos con sus amos y qué cosas deben evitar? ¿Qué lograrán al demostrar que son buenos y dignos de confianza?
+
+**2:11-12** ¿Qué ha sido revelado y a quiénes trae salvación? ¿De qué se nos instruye a apartarnos y cómo debemos vivir en este mundo?
+
+**2:13-14** ¿Qué día esperamos con esperanza? ¿Para qué dio Jesús su vida?
+
+**2:15** ¿Qué debe hacer Tito con estas enseñanzas? ¿Qué autoridad tiene y qué no debe permitir?
+
+</details>
+
+<details>
+
+<summary>Preguntas de reflexión</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Llamado a la acción</summary>
 
 
 

@@ -1,3 +1,10 @@
+---
+description: >-
+  Pablo, esclavo de Dios y apóstol de Jesucristo, escribe a Tito, su verdadero
+  hijo en la fe, para proclamar la verdad que da vida eterna, y le desea gracia
+  y paz.
+---
+
 # 1:1-4 Saludos de Pablo
 
 _1 Yo, Pablo, esclavo de Dios y apóstol de Jesucristo, escribo esta carta. Fui enviado para proclamar fe a los que Dios ha elegido y para enseñarles a conocer la verdad que les muestra cómo vivir una vida dedicada a Dios._
@@ -90,11 +97,81 @@ Aunque no leemos nada sobre Tito en Hechos, aún así sabemos algo sobre su car�
 **Pablo desea que Dios le de gracia y paz (1:4)**
 
 Pablo usa palabras típicas de un saludo en el mundo antiguo. Pero cuando Pablo usó estas palabras, no eran usadas solamente como una formalidad, porque Pablo conocía la fuente de toda gracia, misericordia y paz. Provienen de Dios Padre y del Señor Jesucristo nuestro Salvador.
-
-
 {% endstep %}
 {% endstepper %}
 
+</details>
 
+<details>
+
+<summary>Preguntas de comprensión</summary>
+
+**1:1-2** ¿Cómo se presenta Pablo a sí mismo y para qué fue enviado? ¿Qué confianza da esta verdad a quienes la conocen?
+
+**1:2-3** ¿Qué prometió Dios antes de que comenzara el mundo y cómo se caracteriza a Dios en esta promesa? ¿Cuándo y cómo dio a conocer su mensaje?
+
+**1:4** ¿A quién le escribe Pablo y cómo lo llama? ¿Qué le desea?
+
+</details>
+
+<details>
+
+<summary>Preguntas de reflexión</summary>
+
+**1. Para Pablo, ser siervo de Dios es la identidad que ordena todas las demás** (v1)
+
+* Cuando pienso en quién soy en lo más esencial, ¿qué cosas me vienen a la mente y qué lugar ocupa entre ellas mi relación con Dios?
+* Si alguien mirara cómo uso mi tiempo, mi energía y mis recursos en una semana normal, ¿qué identidad concluiría que tengo? ¿Coincide con la que yo digo tener?
+
+***
+
+**2. Cada creyente tiene un llamado y un propósito dentro del cuerpo de Cristo, y debería conocerlo** (v1)
+
+* ¿Qué tengo claro hoy sobre lo que Dios me llamó a hacer en su cuerpo?
+
+***
+
+**3. La verdad no es un fin en sí misma: su propósito es conducir a una vida dedicada a Dios** (v1)
+
+* ¿Qué parte de mi manera de vivir hoy es distinta a raíz de lo que fui aprendiendo de la Palabra?
+
+***
+
+**4. La esperanza de la vida eterna se apoya en la promesa de un Dios que no miente, no en un deseo ni en mi desempeño** (v2)
+
+* &#x20;¿En qué decisiones o prioridades de mi vida diaria se nota que cuento con la vida eterna que Dios prometió?
+
+***
+
+**5. Anunciar el mensaje es una tarea encomendada a todos los creyentes, no solo a quienes predican** (v3)
+
+* ¿Qué lugar ocupa en mi vida cotidiana dar a conocer lo que Dios hizo, y qué me lo facilita o me lo dificulta?
+
+***
+
+**6. La gracia y la paz no son una fórmula de saludo: tienen una fuente concreta, que es Dios** (v4)
+
+* Cuando necesito paz, ¿a qué o a quién recurro primero, y qué espero encontrar ahí?
+
+***
+
+**7. La fe compartida crea vínculos de acompañamiento, como el de Pablo y Tito** (v4)
+
+* ¿Quiénes comparten conmigo la misma fe de manera cercana, y qué recibo y qué aporto yo en ese vínculo?
+
+</details>
+
+<details>
+
+<summary>Llamado a la acción</summary>
+
+* Escribí en una o dos frases cómo describirías hoy tu propósito de vida, y compará esa frase con cómo usaste tu tiempo y tus recursos esta última semana.
+* Pensá en una decisión reciente donde chocaron dos cosas que te importan (por ejemplo, trabajo y familia, o lo que querías y lo que sabías que Dios pedía). Escribí qué pesó más al decidir y por qué, y evaluá si esa jerarquía refleja la identidad que decís tener en Cristo.
+* Pedile a Dios esta semana claridad sobre el lugar que te llamó a ocupar en su cuerpo, y conversalo con alguien de tu iglesia que te conozca bien.
+* Elegí una enseñanza bíblica que aprendiste recientemente y definí un cambio concreto de conducta que puedas poner en práctica esta semana a partir de ella.
+* Cuando aparezca una duda sobre tu salvación o tu estado espiritual, respondela esta semana apoyándote en una promesa específica de Dios, y no en tus sentimientos ni en tu desempeño.
+* Pensá en una persona de tu entorno a quien podrías compartirle lo que Dios hizo en tu vida, y buscá una oportunidad concreta esta semana para hacerlo.
+* Notá esta semana a dónde acudís primero cuando sentís ansiedad o falta de paz, y llevá eso a Dios en oración antes de buscar otras salidas.
+* Nombrá a alguien con quien compartís la fe de manera cercana, y buscá esta semana un gesto concreto para fortalecer ese vínculo.
 
 </details>
